@@ -46,7 +46,6 @@ with st.sidebar:
         st.write('Santi Singha')
         st.write('Ditsha Ghosh')
         st.write('Ranit Mondal')
-        st.write('Harsh Sharma')
         
 # File uploader for the dataset
 uploaded_file = st.file_uploader("Upload a CSV file with reviews", type="csv")
